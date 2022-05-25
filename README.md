@@ -1,3 +1,3 @@
-# maishiroma GitHub Profile
+# Welcome to My Profile
 
-Welcome to my GitHub Profile!
+:wave: Welcome to my GitHub Profile! :sparkles:

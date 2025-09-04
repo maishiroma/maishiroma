@@ -27,7 +27,7 @@
 
 - Graduated from [Chapman University](https://chapman.edu) in 2018
 - Work experiences range from *Quality Assurance* :computer:, *Online Blogger* :pencil2:, *Contractor Game Prototyper* :space_invader:
-- I currently work at [Mindshow](https://www.mindshow.com/) as a **Full Time DevOps Engineer** :cloud:
+- My day to day job is a **DevOps/Cloud Engineer** :cloud:
 - In my free time, I like to create small game projects :video_game: and find new food places :ramen:
 
 ## $ whoami --skills --snippet
